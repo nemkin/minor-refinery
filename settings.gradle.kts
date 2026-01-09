@@ -1,1 +1,5 @@
 rootProject.name = "minor-refinery"
+
+plugins {
+    id("tools.refinery.settings") version "0.2.0"
+}
